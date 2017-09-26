@@ -1,10 +1,14 @@
 # SEMANA i
 
-Intro a Watson
+### Catálogo de Bluemix:
+ * [Bluemix](https://console.ng.bluemix.net/catalog)
+ 
+ 
+### Intro a Watson
 
  * https://www.youtube.com/watch?v=7RF1qR79dwg
-
-
+ 
+ 
 ### IBM Watson Demos:
 
  * [Visual Recognition](https://visual-recognition-demo.mybluemix.net/) 
